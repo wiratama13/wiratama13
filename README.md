@@ -19,9 +19,8 @@ Full Stack Web Developer, Frontend Developer, Backend Developer
  
 ### <summary><strong>Let's connect!</strong></summary>
 
-
 <a href="https://www.linkedin.com/in/wiratama-ashidiqi-nasrulloh-89a705117">
-  <img align="left" width="20px" src="https://simpleicons.now.sh/blogger/495f7e" />
+  
 </a>
 
 

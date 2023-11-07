@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wira</h1>
 <h3 align="center">A passionate Full Stack Developer from Indonesia</h3>
 
-- 🌱 I’m currently learning **Laravel, and Vue JS**
+- 🌱 I’m currently learning **Laravel, JS, ExpressJS**
 
 - 👨‍💻 All of my projects are available at [wiradev.my.id](wiradev.my.id)
 
